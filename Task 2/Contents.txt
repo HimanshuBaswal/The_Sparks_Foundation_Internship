@@ -1,0 +1,21 @@
+## The Sparks Foundation #GRIPAPRIL22
+### Author - Himanshu Baswal, Data Science & Business Analytics Intern
+
+## Task 2 : Prediction using Unsupervised Machine Learning
+
+- From the given 'Iris' dataset, predict the optimum number of clusters and represent it visually.
+- Use R or Python to perform this task.
+
+Dataset Sample : https://bit.ly/3kXTdox
+
+### 1) Import the Dataset and required libraries
+
+### 2) Elbow Method using within-cluster-sum-of-squares
+
+### 3) Using Elbow graph to find optimum no. of Clusters
+
+### 4) Initializing using K-means ++ 
+
+### 5) Visualizing the Clusters
+
+
