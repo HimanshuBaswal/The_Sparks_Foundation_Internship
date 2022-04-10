@@ -1,0 +1,29 @@
+## The Sparks Foundation #GRIPAPRIL22
+### Author - Himanshu Baswal, Data Science & Business Analytics Intern
+
+## Task 1 : Prediction using Supervised Machine Learning
+
+- Predict the percentage of an student based on the number of study hours.
+- This is a simple linear regression task as it involves just 2 variables.
+- You can use R, Python, SAS Enterprise Miner or any other tool
+- What will be predicted score if a student studies for 9.25 hrs/day?
+
+Dataset Sample : http://bit.ly/w-data
+
+### 1) Import the Dataset and required libraries
+
+### 2) Visualizing the data
+
+### 3) Training and Testing the Model
+      3.1) Splitting the Data
+      3.2) Fitting the Data into the model
+      3.3) Test data
+
+### 4) Model Evaluation
+     4.1) Accuracy of the model      
+     4.2) Predicting the Error
+
+### 5) Question
+
+### 6) Conclusion
+
