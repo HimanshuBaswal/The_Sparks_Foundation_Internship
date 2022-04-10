@@ -1,5 +1,7 @@
 # The_Sparks_Foundation_Internship
 
+## Data Science & Business Analytics Internship
+
 ## Format of the internship:
 The internship will have a maximum duration of one month. Tasks are assigned and interns work independently. The completed tasks are submitted through Google forms. 
 You can ask queries in our discussion forum, The Sparks Foundation Network on LinkedIn and our mentors and fellow interns will help you out. 
